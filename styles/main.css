@@ -78,7 +78,7 @@ form {
 }
 
 .main-nav ul{
-  padding-top:
+  padding-top: 10px;
 }
 
 .main-nav li{
@@ -251,8 +251,6 @@ nav ul {
       "nav    content sidebar"
       "nav    content ad"
       "footer footer  footer"
-      .search ul{
-        display:inline-block;
       }
    }
    nav ul {
@@ -260,7 +258,6 @@ nav ul {
      display: flex;
      justify-content: center;
    }
-}
 
 form {
   margin: 0 auto;
